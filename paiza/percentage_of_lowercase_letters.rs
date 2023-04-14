@@ -1,4 +1,4 @@
-// 
+// https://paiza.jp/works/mondai/data_structure/data_structure__dict_step2
 
 use std::collections::HashMap;
 use std::io;
