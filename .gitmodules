@@ -1,0 +1,3 @@
+[submodule "actix-gcd"]
+	path = actix-gcd
+	url = https://github.com/Stead08/actix-gcd.git
