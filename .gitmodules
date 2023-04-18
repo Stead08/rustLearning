@@ -1,3 +1,6 @@
 [submodule "actix-gcd"]
 	path = actix-gcd
 	url = https://github.com/Stead08/actix-gcd.git
+[submodule "mabdelbrot"]
+	path = mabdelbrot
+	url = https://github.com/Stead08/mandelbrot.git
