@@ -1,0 +1,12 @@
+fn main() {
+    let v = vec!["hello".to_string(), "rust".to_string(), "world".to_string()];
+    //ベクタはvから移動され、vは未初期化状態になる
+    
+    for mut s in v {
+        s.push('!');
+        println!("{}", s);
+    }
+    // hello!
+    // rust!
+    // world!
+}
