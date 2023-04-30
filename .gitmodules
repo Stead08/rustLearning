@@ -4,3 +4,6 @@
 [submodule "mabdelbrot"]
 	path = mabdelbrot
 	url = https://github.com/Stead08/mandelbrot.git
+[submodule "o_r_mapper_practice"]
+	path = o_r_mapper_practice
+	url = https://github.com/Stead08/o_r_mapper_practice.git
